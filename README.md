@@ -1,5 +1,7 @@
 # Capstone-DataScience
 
+ Project background and context
+
 The era of commercial space has arrived, and there are several companies that are making 
 space travel affordable for everyone. Perhaps the most successful of them is SpaceX, and one of 
 the reasons is that their rocket launch is relatively inexpensive.
